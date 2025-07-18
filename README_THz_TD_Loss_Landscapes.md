@@ -61,7 +61,7 @@ Install all dependencies using:
 
 ## 📊 Usage
 
-Each notebook explores different views of the loss landscape by varying combinations of sample parameters:
+Each notebook explores different views of the loss landscape by varying combinations of sample parameters and number of layers:
 
 - **Refractive index (n)**
 - **Extinction coefficient (k)**
@@ -89,6 +89,7 @@ Optimization strategies like **Adam** and **Bayesian Optimization** are included
 ---
 
 ## 📷 Example Visualizations
+Loss wrt varying n and k for a 100µm simulated silicon sample with reflections.
 
 ![Loss at True d Zoomed](loss%20plots/Loss_at_true_d_zoomed.png)
 
